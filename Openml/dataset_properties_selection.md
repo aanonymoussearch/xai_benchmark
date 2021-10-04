@@ -48,7 +48,7 @@ Note, to perform this analysis the [dataset with values of each of the 15 proper
 
 A summary of the relationships found through MCA can be seen in Figure 2.
 
-![alt text](./Figures/mca_dataset_properties.png)
+![alt text](../Figures/mca_dataset_properties.png)
 **Figure 2 - Multiple Correspondence Analysis - MCA with rows (datasets) and columns (properties) depending on the first and second PCA components.**
 
 In Figure 2, the existence of the three clusters identified in the research can be clearly seen (remembering that cluster 2 was discarded due to the small number of datasets).
