@@ -3,14 +3,7 @@
 This repository has research analysis data for Explainable Artificial Intelligence - XAI.
 
 The research group responsible for this study is composed of:
-
-José Ribeiro - site: https://sites.google.com/view/jose-sousa-ribeiro
-
-Raíssa Silva - site: https://sites.google.com/site/silvarailors
-
-Lucas Cardoso - site: http://lattes.cnpq.br/9591352011725008
-
-Ronnie Alves (Leader) - site: https://sites.google.com/site/alvesrco/
+    <<<<< Removed because of double blind >>>>>
 
 **Abstract**
 
@@ -28,7 +21,7 @@ In the benchmark proposed by this research, the explanatory ranks of 6 different
 
 The methodology is presented in the diagram below:
 
-![alt text](https://github.com/josesousaribeiro/xai_benchmark/blob/main/General_Info/metodologia_1.png)
+![alt text](https://github.com/aanonymoussearch/xai_benchmark/blob/main/General_Info/metodologia_1.png)
 
 All the information needed for a better understanding and reproducibility of the procedures performed in the research can be accessed directly on the notebook (Google Colab) available at root, as well as in the files folders.
 
