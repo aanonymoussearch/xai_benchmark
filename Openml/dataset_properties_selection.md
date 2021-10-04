@@ -6,7 +6,7 @@ Seeking to better understand the characteristic of each dataset cluster found fr
 
 Through inspection analysis, it was possible to verify different distributions of property value ranges for each of the two main clusters. The result is shown in Figure 1.
 
-![alt text](/blob/main/Openml/full_properties_by_cluster_in_frame_.png)
+![alt text](blob/main/Openml/full_properties_by_cluster_in_frame_.png)
 **Figure 1 - Dataset properties for each cluster.**
 
 Each inspection analysis found on each property in Figure 1 is listed below.
@@ -48,7 +48,7 @@ Note, to perform this analysis the [dataset with values of each of the 15 proper
 
 A summary of the relationships found through MCA can be seen in Figure 2.
 
-![alt text](/blob/main/Figures/mca_dataset_properties.png)
+![alt text](blob/main/Figures/mca_dataset_properties.png)
 **Figure 2 - Multiple Correspondence Analysis - MCA with rows (datasets) and columns (properties) depending on the first and second PCA components.**
 
 In Figure 2, the existence of the three clusters identified in the research can be clearly seen (remembering that cluster 2 was discarded due to the small number of datasets).
