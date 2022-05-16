@@ -8,7 +8,7 @@ To identify each different dataset profile, an inspection of the value ranges of
 
 Through inspection analysis, it was possible to verify different distributions of property value ranges for each of the two main clusters. The result is shown in Figure 1.
 
-![alt text](https://github.com/josesousaribeiro/XAI-Benchmark/blob/main/Figures/full_properties_by_cluster_in_frame_.png)
+![alt text](https://github.com/aanonymoussearch/xai_benchmark/blob/main/Figures/full_properties_by_cluster_in_frame_.png)
 **Figure 1 - Dataset properties for each cluster.**
 
 Each inspection analysis found on each property in Figure 1 is listed below.
@@ -50,7 +50,7 @@ Note, to perform this analysis the [dataset with values of each of the 15 proper
 
 A summary of the relationships found through MCA can be seen in Figure 2.
 
-![alt text](https://github.com/josesousaribeiro/XAI-Benchmark/blob/main/Figures/mca_dataset_properties.png)
+![alt text](https://github.com/aanonymoussearch/xai_benchmark/blob/main/Figures/mca_dataset_properties.png)
 **Figure 2 - Multiple Correspondence Analysis - MCA with rows (datasets) and columns (properties) depending on the first and second PCA components.**
 
 In Figure 2, the existence of the three clusters identified in the research can be clearly seen (remembering that cluster 2 was discarded due to the small number of datasets).
@@ -63,6 +63,6 @@ Note, some properties were not mentioned above because they appear at very close
 
 Based on the above, this research find the relationships summarized in Figure 3.
 
-![alt text](https://github.com/josesousaribeiro/XAI-Benchmark/blob/main/Figures/resume_of_properties_relation_new.png)
+![alt text](https://github.com/aanonymoussearch/xai_benchmark/blob/main/Figures/resume_of_properties_relation_new.png)
 **Figure 3 - Resume of MCA inspection.**
 
